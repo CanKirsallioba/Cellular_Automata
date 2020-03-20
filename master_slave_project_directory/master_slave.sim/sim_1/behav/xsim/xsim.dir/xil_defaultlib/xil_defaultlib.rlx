@@ -1,0 +1,12 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sim_1/new/test_bench.sv,1575494715,systemVerilog,,,,test_bench,,,,,,,,
+C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/SevSeg_4digit.sv,1575495466,systemVerilog,,C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/cmaster.sv,,SevSeg_4digit,,,,,,,,
+C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/cmaster.sv,1575494693,systemVerilog,,C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/cslave.sv,,cmaster,,,,,,,,
+C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/cslave.sv,1575494447,systemVerilog,,C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/seven_segment_converter.sv,,cslave,,,,,,,,
+C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/seven_segment_converter.sv,1575494911,systemVerilog,,C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/timer20msec.sv,,seven_segment_converter,,,,,,,,
+C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/timer20msec.sv,1575214367,systemVerilog,,C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/top_level.sv,,timer20msec,,,,,,,,
+C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sources_1/new/top_level.sv,1575494478,systemVerilog,,C:/Users/miner_2/Desktop/master_slave_project_directory/master_slave.srcs/sim_1/new/test_bench.sv,,top_level,,,,,,,,

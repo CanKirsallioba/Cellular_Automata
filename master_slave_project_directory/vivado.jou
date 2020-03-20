@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Mar 20 21:16:23 2020
+# Process ID: 17260
+# Current directory: C:/Users/cankirsallioba/Documents/School/2.year/1.term/cs223/project/master_slave_project_directory
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2264 C:\Users\cankirsallioba\Documents\School\2.year\1.term\cs223\project\master_slave_project_directory\master_slave.xpr
+# Log file: C:/Users/cankirsallioba/Documents/School/2.year/1.term/cs223/project/master_slave_project_directory/vivado.log
+# Journal file: C:/Users/cankirsallioba/Documents/School/2.year/1.term/cs223/project/master_slave_project_directory\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/cankirsallioba/Documents/School/2.year/1.term/cs223/project/master_slave_project_directory/master_slave.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1

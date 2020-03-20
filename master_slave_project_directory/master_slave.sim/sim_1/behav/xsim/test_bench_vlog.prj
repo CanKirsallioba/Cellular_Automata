@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../master_slave.srcs/sources_1/new/SevSeg_4digit.sv" \
+"../../../../master_slave.srcs/sources_1/new/cmaster.sv" \
+"../../../../master_slave.srcs/sources_1/new/cslave.sv" \
+"../../../../master_slave.srcs/sources_1/new/seven_segment_converter.sv" \
+"../../../../master_slave.srcs/sources_1/new/timer20msec.sv" \
+"../../../../master_slave.srcs/sources_1/new/top_level.sv" \
+"../../../../master_slave.srcs/sim_1/new/test_bench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
